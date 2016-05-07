@@ -1,0 +1,10 @@
+c:\users\mauro.manfredelli\documents\visual studio 2015\Projects\Progetto2\Progetto2\bin\Debug\Progetto2.exe.config
+c:\users\mauro.manfredelli\documents\visual studio 2015\Projects\Progetto2\Progetto2\obj\Debug\Progetto2.csprojResolveAssemblyReference.cache
+c:\users\mauro.manfredelli\documents\visual studio 2015\Projects\Progetto2\Progetto2\obj\Debug\Progetto2.MyForm.resources
+c:\users\mauro.manfredelli\documents\visual studio 2015\Projects\Progetto2\Progetto2\obj\Debug\Progetto2.csproj.GenerateResource.Cache
+c:\users\mauro.manfredelli\documents\visual studio 2015\Projects\Progetto2\Progetto2\bin\Debug\Progetto2.exe
+c:\users\mauro.manfredelli\documents\visual studio 2015\Projects\Progetto2\Progetto2\bin\Debug\Progetto2.pdb
+c:\users\mauro.manfredelli\documents\visual studio 2015\Projects\Progetto2\Progetto2\bin\Debug\ZedGraph.dll
+c:\users\mauro.manfredelli\documents\visual studio 2015\Projects\Progetto2\Progetto2\obj\Debug\Progetto2.exe
+c:\users\mauro.manfredelli\documents\visual studio 2015\Projects\Progetto2\Progetto2\obj\Debug\Progetto2.pdb
+C:\Users\mauro.manfredelli\Documents\Visual Studio 2015\Projects\Progetto2\Progetto2\bin\Debug\ZedGraph.resources.dll
